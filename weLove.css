@@ -2,6 +2,50 @@ html{
     margin: 50px;
 }
 
+img{
+    border: 0;
+    border: 1px solid #FFF7D7;
+}
+
+html, body{
+    background: grey;
+}
+
 h1, h2, h3, h5, h6{
+    font-weight: normal;
     margin-top: 50px;
+    color: blue;
+}
+
+p{
+    line-height: 1.6;
+}
+
+blockquote{
+    font-style: italic;
+    font-weight: bold;
+    border-left: 10px solid #E0DFDA;
+    font-size: 18px;
+}
+
+
+h1{
+    font-size: 30px;
+    font-family: georgia, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.075em;
+}
+
+h2{
+    font-size: 24px
+}
+
+
+h3{
+    font-size: 18
+}
+
+
+h4{
+    font-size: 14px;
 }
